@@ -1,0 +1,14 @@
+# .NET Build files
+bin/
+obj/
+
+# User-specific files
+.vs/
+.vscode/
+
+# Logs
+*.log
+
+# Environment files
+appsettings.json
+appsettings.Development.json

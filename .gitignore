@@ -1,0 +1,17 @@
+# Node modules (common for Angular projects)
+node_modules/
+
+# Log files
+*.log
+
+# OS files (common across all OS)
+.DS_Store
+Thumbs.db
+
+# IDE/Editor config files (e.g., VS Code, JetBrains)
+.vscode/
+.idea/
+
+# Build output folder (if any)
+dist/
+out/
